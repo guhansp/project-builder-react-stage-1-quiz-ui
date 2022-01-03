@@ -12,7 +12,7 @@ class QuizComponent extends Component {
                     <div className='options'>
                     <button className='btncls'>Dog</button>
                     <button className='btncls'>Goat</button>
-                    <button className='btncls'>Abirami</button>
+                    <button className='btncls'>Elephant</button>
                     <button className='btncls'>Lion</button>
                     </div>
                     <div className='button-items'>
